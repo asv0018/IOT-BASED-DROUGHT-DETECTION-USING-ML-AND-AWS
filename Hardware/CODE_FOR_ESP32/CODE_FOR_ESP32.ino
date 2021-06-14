@@ -23,7 +23,7 @@ const char* ssid = "ASV_DESKTOP";
 const char* password = "87554321";
 
 // IP ADDRESS OF THE AWS EC2 INSTANCE
-String ip_address = "192.168.0.106";
+String ip_address = "15.206.212.67";
 
 String serverName = "http://"+ip_address+":8080/input_pipe";
 
